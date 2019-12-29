@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+.cm-module {
+  font-size: 13px;
+  line-height: 18px;
+  position: absolute;
+  overflow: hidden;
+  bottom: 20px;
+  right: 60px;
+  width: 360px;
+  height: 560px;
+  border-radius: 3px;
+  box-shadow: 6px 10px 20px 6px rgba(86, 101, 128, 0.29);
+}
+
+.cm-module p {
+  margin: 0.6em 0;
+}
+
